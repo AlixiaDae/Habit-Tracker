@@ -1,8 +1,8 @@
 {
-  "name": "starter_repository",
-  "productName": "Starter Repo",
+  "name": "trackit",
+  "productName": "Track It!",
   "version": "1.0.0",
-  "description": "Starter repo for Electron Vite + React w/ Tailwind",
+  "description": "Habit tracker Electron Vite + React w/ Tailwind",
   "main": ".vite/build/main.js",
   "private": true,
   "scripts": {

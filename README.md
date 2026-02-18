@@ -1,3 +1,1 @@
-Electron Vite + React app with TailwindCSS Starter
-
-Just a starter repository
+Electron Vite + React app for tracking habit

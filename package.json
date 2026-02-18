@@ -1,8 +1,8 @@
 {
-  "name": "habit tracker",
-  "productName": "habit tracker",
+  "name": "starter_repository",
+  "productName": "Starter Repo",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "Starter repo for Electron Vite + React w/ Tailwind",
   "main": ".vite/build/main.js",
   "private": true,
   "scripts": {

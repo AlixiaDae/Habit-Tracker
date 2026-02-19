@@ -1,6 +1,19 @@
 @import "tailwindcss";
 
-* {
-  margin: 0;
-  padding: 0;
+#root {
+  display: flex;
+  flex-direction: column;
+  font-family: "Gloria Hallelujah", cursive;
+  /*font-family: "Playwrite NZ Basic", cursive;*/
+}
+
+.calendar-body {
+
+  h2 {
+    font-size: 1.5em;
+  }
+  
+  ul {
+    font-size: .8em;
+  }
 }
